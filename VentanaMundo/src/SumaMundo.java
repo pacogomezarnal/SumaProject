@@ -11,5 +11,9 @@ public class SumaMundo {
 	{
 		return a+b;
 	}
+	public int resta()
+	{
+		return a-b;
+	}
 
 }
