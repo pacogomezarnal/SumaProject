@@ -15,5 +15,12 @@ public class SumaMundo {
 	{
 		return a-b;
 	}
+	
+	public int multiplicacion()
+	{
+		return a*b;
+	}
+	
+	
 
 }
