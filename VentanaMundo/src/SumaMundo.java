@@ -1,6 +1,6 @@
 
 public class SumaMundo {
-	//Sumandos de la suma
+
 	private int sumando1=0;
 	private int sumando2=0;
 	public SumaMundo(int num1,int num2) {
