@@ -1,19 +1,19 @@
 
 public class SumaMundo {
-	private int a=0;
-	private int b=0;
+	private int sumando1=0;
+	private int sumando2=0;
 	public SumaMundo(int num1,int num2) {
-		a=num1;
-		b=num2;
+		sumando1=num1;
+		sumando2=num2;
 	}
 	
 	public int suma()
 	{
-		return a+b;
+		return sumando1+sumando2;
 	}
 	public int resta()
 	{
-		return a-b;
+		return sumando1-sumando2;
 	}
 
 }
